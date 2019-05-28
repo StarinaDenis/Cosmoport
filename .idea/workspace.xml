@@ -1,12 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2867799-3c27-4b44-8be5-88ebeaf37124" name="Default Changelist" comment="" />
+    <list default="true" id="c2867799-3c27-4b44-8be5-88ebeaf37124" name="Default Changelist" comment="v2">
+      <change afterPath="$PROJECT_DIR$/template/space/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/bootstrap-4.3.1-dist/js/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/main/webapp/resources/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/CreateShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/DeleteShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/GetAllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/GetCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/GetShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/UpdateShipTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/utils/ShipInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/utils/TestDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/java/com.space/controller/utils/TestsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/space/src/test/resources/test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/space/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/template/space/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -30,16 +74,44 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/space/src/test/java/com.space/controller/CreateShipTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+            <state relative-caret-position="85">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/space/src/main/java/com/space/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/space/src/main/java/com/space/config/MyWebAppInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/template/space" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -47,12 +119,14 @@
     <option name="width" value="1300" />
     <option name="height" value="1044" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,7 +158,7 @@
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2" type="b2602c69:ProjectViewProjectNode" />
@@ -92,7 +166,7 @@
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -101,9 +175,32 @@
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.space" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="space" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="space" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="space" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="space" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2" type="b2602c69:ProjectViewProjectNode" />
@@ -112,16 +209,12 @@
               <item name="space" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.space" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,7 +224,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,16 +251,26 @@
       <workItem from="1558894328365" duration="829000" />
       <workItem from="1558937530583" duration="1259000" />
       <workItem from="1558965381653" duration="12000" />
+      <workItem from="1559069260408" duration="422000" />
+      <workItem from="1559069723447" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="v2">
+      <created>1559069434604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559069434604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2100000" />
+    <option name="totallyTimeSpent" value="2542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18770227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22734627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -186,12 +289,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.7419355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32928804" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -199,6 +303,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/template/space/pom.xml">
@@ -215,8 +323,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/space/src/test/java/com.space/controller/CreateShipTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+        <state relative-caret-position="85">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/space/src/main/java/com/space/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/space/src/main/java/com/space/config/MyWebAppInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>

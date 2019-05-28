@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/template/space" vcs="Git" />
+    <mapping directory="D:\Документы\testtask\2\template\Space2" vcs="Git" />
   </component>
 </project>
